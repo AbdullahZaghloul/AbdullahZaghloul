@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdullah Zaghloul Sayed Mohamed</h1>
-<h3 align="center">My name is Abdullah Zaghloul Sayed, I live in Ain Shams, and I am a fourth-year student at the Faculty of Computers and Information Science at Ain Shams University. I am interested in the field of Android application programming.</h3>
+<h3 align="center">My name is Abdullah Zaghloul Sayed. I live in Ain Shams and graduated from the Faculty of Computers and Information Sciences at Ain Shams University. I am interested in Android Development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahzaghloul&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahzaghloul" /> </p>
 
